@@ -49,3 +49,7 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 
 Contributions are welcome! 
 Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## Screenshots
+
+![2024-06-03](https://github.com/HarshavarthanRbh/PRODIGY_WD_02/assets/171503008/df51733f-876f-4c03-98b6-c21abbc25cdb)
